@@ -1,5 +1,10 @@
 https://www.cnblogs.com/eos666/p/9578047.html
 
+
+sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
+
+
+
 8291 10元2G 100条短信  8292  10元3G 200条短信
 8293 3元1G 24小时
  
