@@ -1,5 +1,6 @@
 https://www.cnblogs.com/eos666/p/9578047.html
 
+Macintosh HD
 
 sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
 
