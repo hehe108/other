@@ -3,7 +3,7 @@ https://www.cnblogs.com/eos666/p/9578047.html  失败  无法启动
 Macintosh HD
 
 sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
-
+轻点 跟3指 需要设置
 
 
 8291 10元2G 100条短信  8292  10元3G 200条短信
